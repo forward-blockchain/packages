@@ -1,2 +1,2 @@
-var EthJs = {
+var Eth = {
 };
